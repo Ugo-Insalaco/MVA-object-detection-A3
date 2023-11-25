@@ -1,0 +1,8 @@
+data_sketches/
+experiment/
+experiment_resnet_18/
+experiment_resnet_50/
+experiment_resnet_152/
+sift/
+__pycache__/
+.ipynb_checkpoints/
