@@ -1,3 +1,4 @@
+### Note: The skeleton of this project is not mine, my role was to implement new data processing methods, models and train the models using the modified skeleton
 ## Object recognition and computer vision 2023/2024
 
 ### Assignment 3: Sketch image classification
